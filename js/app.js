@@ -22,7 +22,6 @@ function getAnswer(question) {
 }
 
 function quiz() {
-  alert("Carefully read the paragraph below, then answer the following questions.");
 
   let points = 0;
 
@@ -48,3 +47,5 @@ function quiz() {
 
   alert(`Congratz! You got ${points} out of 5 points, for a score of ${(points / 5) * 100}%. Yay!`);
 }
+
+alert("Carefully read the paragraph below, then press \"Take Quiz\" to take the quiz.");

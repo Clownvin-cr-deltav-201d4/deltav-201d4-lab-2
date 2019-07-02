@@ -8,7 +8,7 @@ body {
 h1 {
   font-size: 300%;
   text-align: center;
-  color: rgb(249, 0, 255);
+  color: rgb(87, 206, 81);
 }
 h2 {
   color: rgb(24, 245, 83);
@@ -29,4 +29,14 @@ article {
 }
 p {
   padding: 5px;
+}
+#wrapper {
+  text-align: center;
+}
+#quizbutton {
+  font-size: 100%;
+  background-color: rgb(119, 41, 92);
+  color: rgb(255, 255, 255);
+  height: 32px;
+  width: 240px;
 }

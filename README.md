@@ -18,3 +18,5 @@
   <li>Consider including the answers to your daily journal and submission questions here</li>
   <li>This is also a good place to reflect on the tools and resources used and learned</li>
 </ul>
+
+![alt text](accessability.png "Accessability")
