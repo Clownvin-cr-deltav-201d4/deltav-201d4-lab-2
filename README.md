@@ -12,6 +12,7 @@
   <li>Useful and descriptive console.log() messages in the JS are well written and correctly displaying to the browser console for each question of the guessing game.</li>
   <li>Use CSS to style your page as you see fit, to the level of abilities in CSS that you currently have.</li>
   <li>Follow the Add, Commit, Push process. It should be evident in GitHub that commits are made regularly, and with good commit messages that explain the WHY of the commit.</li>
+</ul>
 
 <h3 id="author-studentgroup-name">Author: Calvin</h3>
 
