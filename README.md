@@ -19,4 +19,6 @@
 <h3 id="reflections-and-comments">Reflections and Comments</h3>
 <p>For the most part went swimmingly. Although, I feel that the base requirements don't require you to add many HTML elements, which in turn means there's not a whole lot of stylization you can do with the CSS portion.</p>
 
+<h3 id="accessability-picture">Google Accessability Results</h3>
+
 ![alt text](accessability.png "Accessability")
