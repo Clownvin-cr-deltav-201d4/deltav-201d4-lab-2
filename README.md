@@ -1,9 +1,9 @@
 # deltav-201d4-lab-2
 <h1 id="lab-2">Lab 2</h1>
 
-<h2 id="project-name">About Me</h2>
-
 <h3 id="author-studentgroup-name">Author: Calvin</h3>
+
+<h2 id="project-name">About Me</h2>
 
 <p>Create a website which lists some about me information, and has a y/n quiz about me on it. The project must at least meet these requirements:</p>
 <ul>
