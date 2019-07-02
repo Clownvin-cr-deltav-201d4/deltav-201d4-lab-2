@@ -1,7 +1,7 @@
 # deltav-201d4-lab-2
-<h1 id="lab---number">LAB - Number</h1>
+<h1 id="lab-2">Lab 2</h1>
 
-<h2 id="project-name">Project Name</h2>
+<h2 id="project-name">About Me</h2>
 
 <p>I build an app with a direct and powerful purpose. It does all of the things that it accomplishes well. I should describe the purpose and functionality so those that visit my README understand the app</p>
 
