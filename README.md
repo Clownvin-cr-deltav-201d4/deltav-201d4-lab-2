@@ -3,6 +3,8 @@
 
 <h2 id="project-name">About Me</h2>
 
+<h3 id="author-studentgroup-name">Author: Calvin</h3>
+
 <p>Create a website which lists some about me information, and has a y/n quiz about me on it. The project must at least meet these requirements:</p>
 <ul>
   <li>HTML, CSS, and JavaScript must be cleanly written with correct indentation and syntax. Look at examples online and in your textbook. Note that your JS must pass the rules in the linter that we installed.</li>
@@ -13,8 +15,6 @@
   <li>Use CSS to style your page as you see fit, to the level of abilities in CSS that you currently have.</li>
   <li>Follow the Add, Commit, Push process. It should be evident in GitHub that commits are made regularly, and with good commit messages that explain the WHY of the commit.</li>
 </ul>
-
-<h3 id="author-studentgroup-name">Author: Calvin</h3>
 
 <h3 id="reflections-and-comments">Reflections and Comments</h3>
 <p>For the most part went swimmingly. Although, I feel that the base requirements don't require you to add many HTML elements, which in turn means there's not a whole lot of stylization you can do with the CSS portion.</p>
